@@ -32,17 +32,10 @@ body {
 	font-weight: 400;
 }
 
-.body-left p:first {
-	margin-top: x;
+.body-left{
+	margin: 10px;
 }
 
-.body-left input {
-	padding-left: 10px;
-	padding-right: 10px;
-	border-bottom: 1px gray solid;
-
-	font-family: "Times New Roman", Times, serif;
-}
 .body-right {
 	padding-left: 10px;
 	padding-right: 10px;
